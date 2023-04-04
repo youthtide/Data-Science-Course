@@ -6,7 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-/ignore_dir/
-/ignore_dir/1.py
-/ignore_dir/2.py
-/ignore_file.py
+/git/
+/1
